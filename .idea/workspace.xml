@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18847f91-fb14-4113-be03-914ffbc3968c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\RJ\Git\bin\git.exe" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1x5R7tngcjvGnVGs753iZUhewFU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../kh" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\konghao\imooc-springboot-starter-master\src\main\java\com\imooc\controller\utils" />
+      <recent name="E:\konghao\imooc-springboot-starter-master\src\main\java\com\imooc\controller" />
+      <recent name="E:\konghao\imooc-springboot-starter-master\src\main\java\com\imooc\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.utils" />
+      <recent name="com.imooc.controller.utils" />
+      <recent name="org.n3r.idworker.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ImoocApplication">
+    <configuration name="CmccLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.controller.utils.CmccLogin" />
+      <module name="imooc-springboot-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.controller.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncryptUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.controller.utils.EncryptUtils" />
+      <module name="imooc-springboot-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.controller.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KongHaoController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.controller.KongHaoController" />
+      <module name="imooc-springboot-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiReadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.utils.MultiReadTest" />
+      <module name="imooc-springboot-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFileMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.utils.ReadFileMain" />
+      <module name="imooc-springboot-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImoocApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="imooc-springboot-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.ImoocApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KongHaoController" />
+        <item itemvalue="Application.ReadFileMain" />
+        <item itemvalue="Application.MultiReadTest" />
+        <item itemvalue="Application.CmccLogin" />
+        <item itemvalue="Application.EncryptUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18847f91-fb14-4113-be03-914ffbc3968c" name="Default Changelist" comment="" />
+      <created>1629642801155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629642801155</updated>
+      <workItem from="1629642805046" duration="62000" />
+      <workItem from="1629642921142" duration="715000" />
+      <workItem from="1629643863688" duration="13000" />
+      <workItem from="1629643896406" duration="75000" />
+      <workItem from="1629644005892" duration="4220000" />
+      <workItem from="1629648488802" duration="2263000" />
+      <workItem from="1629786154706" duration="10273000" />
+      <workItem from="1629812833378" duration="588000" />
+      <workItem from="1629813951133" duration="3979000" />
+      <workItem from="1629901392994" duration="564000" />
+      <workItem from="1629902022794" duration="7119000" />
+      <workItem from="1629980908889" duration="314000" />
+      <workItem from="1629981277211" duration="106000" />
+      <workItem from="1629981482415" duration="1764000" />
+      <workItem from="1629983385927" duration="906000" />
+      <workItem from="1629995970198" duration="799000" />
+      <workItem from="1629996825267" duration="859000" />
+      <workItem from="1629997746183" duration="6144000" />
+      <workItem from="1630104027907" duration="2905000" />
+      <workItem from="1630287979014" duration="344000" />
+      <workItem from="1630288391532" duration="11854000" />
+      <workItem from="1630301157265" duration="13205000" />
+      <workItem from="1630322443075" duration="122000" />
+      <workItem from="1630322813569" duration="8128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
